@@ -19,7 +19,7 @@ body {
 
 #wrapper_analog nav {
     padding: 5px;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.4);
     color: white;
     display: flex;
     align-items: center;
@@ -116,7 +116,7 @@ body {
 
 #wrapper_digital nav {
     padding: 5px;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.4);
     color: white;
     display: flex;
     align-items: center;
